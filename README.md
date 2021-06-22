@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vacortes
 - 👀 I’m interested in User Experience Research...
-- 🌱 I’m currently learning Unity (and C#) to develop a traffic simulator for usability research
-- 💞️ I’m looking to collaborate on cross-functional teams through an internship or associate position
-- 📫 You can view my work @ https://www.victoralejandrocortes.com
+- 🔬 I’m currently learning Unity (and C#) to develop a traffic simulator for usability research
+- ✨ I’m looking to collaborate on cross-functional teams through an internship or associate position
+- 🔗 To view my work https://www.victoralejandrocortes.com
